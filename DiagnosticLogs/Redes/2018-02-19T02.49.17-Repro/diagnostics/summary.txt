@@ -1,0 +1,26 @@
+
+-----------------------------------------------
+Escalation Type: Complete
+-----------------------------------------------
+
+get info T0FolderPath
+-----------------------------------------------
+Created directory: \\?\C:\Users\Carmen\AppData\Local\Packages\Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe\LocalState\DiagOutputDir\{a1894a02-17f8-41ad-b4ad-1b568af6f99b}
+Copied file: \\?\C:\Users\Carmen\AppData\Local\Packages\Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe\LocalState\DiagOutputDir\{a1894a02-17f8-41ad-b4ad-1b568af6f99b}\UIF_SubmissionId.txt
+Files Copied: 1
+GetFileAction succeeded
+Action succeeded
+Duration (ms): 47
+-----------------------------------------------
+Snap Trace GMD
+-----------------------------------------------
+1Action succeeded
+Duration (ms): 1922
+-----------------------------------------------
+Stop Trace GMD
+-----------------------------------------------
+Stopped alternative trace.
+Action succeeded
+Duration (ms): 234
+-----------------------------------------------
+Total Duration (ms): 2203

@@ -1,0 +1,4 @@
+No se puede realizar la operaci¢n. Se produjo un error inesperado (0x1f): Uno de los dispositivos conectados al sistema no funciona.
+
+Error: SruQueryStats failed
+Completed with status 1092 (0x00000444)

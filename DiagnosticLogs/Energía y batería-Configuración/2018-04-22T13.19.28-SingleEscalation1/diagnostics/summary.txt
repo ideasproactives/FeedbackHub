@@ -1,0 +1,25 @@
+
+-----------------------------------------------
+Escalation Type: Complete
+-----------------------------------------------
+
+UIFCollectDefaultLogs
+-----------------------------------------------
+Created directory: \\?\C:\Users\Carmen\AppData\Local\Packages\Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe\LocalState\DiagOutputDir\{9e74ea13-e72a-4c11-b988-b3b775efebe6}
+Copied file: \\?\C:\Users\Carmen\AppData\Local\Packages\Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe\LocalState\DiagOutputDir\{9e74ea13-e72a-4c11-b988-b3b775efebe6}\UIF_SubmissionId.txt
+Files Copied: 1
+GetFileAction succeeded
+Action succeeded
+Duration (ms): 16
+-----------------------------------------------
+sleepstudy
+-----------------------------------------------
+Action failed with error code: -2017128419, but 'ignorefailure' was specified. Continuing.
+Duration (ms): 2187
+-----------------------------------------------
+generateE3
+-----------------------------------------------
+Action failed with error code: -2017128419, but 'ignorefailure' was specified. Continuing.
+Duration (ms): 1438
+-----------------------------------------------
+Total Duration (ms): 3735
